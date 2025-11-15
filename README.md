@@ -29,8 +29,6 @@
 ---
 
 # 🆕 Ovi 1.1 Update (10 November 2025)
-
-- **Release Date:** Coming in 1 day  
 - **Key Feature:** Enables *temporal-consistent 10-second video generation* at **960 × 960 resolution**  
 - **Training Improvements:**  
   - Trained natively on 960×960 resolution videos  
